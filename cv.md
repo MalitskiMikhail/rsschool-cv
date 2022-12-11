@@ -31,3 +31,32 @@ Now I have enough life experience, as well as experience in IT: Community/Projec
 ### [__Code examples__]
 __CSS:__
 ```
+.header__nav{
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: black;
+  z-index: 10;
+  padding: 75px; 
+  transform: translateX(100%);
+  transition: .2s all linear;
+      } 
+      .header__nav_active{
+        transform: translatex(0);
+      }
+```
+***
+### __Experience__ 
+* __Frontend__
+
+I started learning HTML\CSS\JavaScript\PHP in 2019 by myself studying popular sites like htmlbook.ru, www.w3schools.com, etc. Developed my own news site on Wordpress, sometimes finalizing the visual and internal parts of the site. The site lasted almost a year, after which I abandoned it. Completely managed to pass and repeat one of the video courses and make up the site by the [example](https://bit.ly/3T73jEA). Also made with 10 small sites in pure HTML\CSS for training. 
+Worked a bit with PHP\SQL\OpenServer as I had to finalize my site on Wordpress.
+
+Worked as Project Manager at a [small website development company](https://leadme.agency/) for about six months. Mainly the sites were web-sites as a landing page. Had to interact with programmers, designers and other specialists, so I understand the process of creating such sites.
+
+* __Other skills__
+1. Completed software testing courses in 2015. 
+2. In 2017, about a month to learn how to work in the programming language "__C__" intensive. Couldn't finish because the training company itself started having problems. 
+3. Studied Assembler, Visual Basic, Delphi and others at сollege.
