@@ -1,9 +1,7 @@
- /* Reset CSS Start */
+/* Reset CSS Start */
 
 html, body{
     padding: 0px 0px;
-    margin: 0px 0px;
-    width: 1440px;
 }
 
 /* Reset CSS END*/
@@ -11,10 +9,10 @@ html, body{
 
     /* Body start */
 
-body {
+body{
     background-color: white;
     margin: auto;
-    
+    width: 1440px;
 }
 
 a{
