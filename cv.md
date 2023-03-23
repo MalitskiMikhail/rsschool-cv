@@ -1,18 +1,17 @@
 # Mikhail Malitski
-***
+
 ### Contacts
 * __Location:__ Warsaw, Poland
 * __Phone:__ +48 505 714 420
 * __Email:__: Malitskiy.Mikhail@gmail.com
 * __GitHub__: [MalitskiMikhail](https://github.com/MalitskiMikhail)
-***
+
 ### ___About Me___
 I got my first computer when I was 6 years old. My whole life has been about computers since I was a kid. My father was an engineer and I studied to be an electronics technician.
 
 In 6th grade I was given a CD with programming at my own request, but then, unfortunately, I could not start programming. After that I had a few more attempts in my adult life and again unsuccessfully. Now, when many years have passed, I am sure that I am ready to make my wish come true.
 
 Now I have enough life experience, as well as experience in IT: Community/Project Management for about 6 years. I am still young and full of energy and now I'm ready to become a developer and fulfill my old dream. For starters, Frontend, and then - who knows what it will end up!
-***
 ### __Skills__
 * HTML
 * CSS + adaptive(basic)
@@ -47,7 +46,7 @@ __CSS:__
         transform: translatex(0);
       }
 ```
-***
+
 ### __Experience__
 * __Frontend__
 
@@ -57,16 +56,16 @@ Worked a bit with PHP\SQL\OpenServer as I had to finalize my site on Wordpress.
 Worked as Project Manager at a [small website development company](https://leadme.agency/) for about six months. Mainly the sites were web-sites as a landing page. Had to interact with programmers, designers and other specialists, so I understand the process of creating such sites.
 
 * __Other skills__
-1. Completed software testing courses in 2015.
-2. In 2017, about a month to learn how to work in the programming language "__C__" intensive. Couldn't finish because the training company itself started having problems.
-3. Studied Assembler, Visual Basic, Delphi and others at сollege.
-***
++ Completed software testing courses in 2015.
++ In 2017, about a month to learn how to work in the programming language "__C__" intensive. Couldn't finish because the training company itself started having problems.
++ Studied Assembler, Visual Basic, Delphi and others at сollege.
+
 ### __Education__
 * 2006-2010 Gomel Road Construction College | Area of specialization: Electronic Computing Devices | _Specialty_: __electronic technician__
 * 2015 - Completed software testing courses
 * 2017 - Learn how to work with language "__C__" about month
 * 2023 - Started JS/FE Course EN 2023Q1 at RS School
-***
+
 ### __English__
 * I started learning English in high school and continued in college.
 * When I was 28 years old, I started learning English with a tutor. I studied English for 8 months and reached A2-B1 level.
