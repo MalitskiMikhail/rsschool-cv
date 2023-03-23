@@ -65,7 +65,7 @@ Worked as Project Manager at a [small website development company](https://leadm
 * 2006-2010 Gomel Road Construction College | Area of specialization: Electronic Computing Devices | _Specialty_: __electronic technician__
 * 2015 - Completed software testing courses
 * 2017 - Learn how to work with language "__C__" about month
-* 2022 - Started JS/FE Course EN 2022Q3 at RS School
+* 2023 - Started JS/FE Course EN 2023Q1 at RS School
 ***
 ### __English__
 * I started learning English in high school and continued in college.
