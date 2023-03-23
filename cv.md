@@ -54,8 +54,7 @@ I started learning HTML\CSS\JavaScript\PHP in 2019 by myself studying popular si
 Worked a bit with PHP\SQL\OpenServer as I had to finalize my site on Wordpress.
 
 Worked as Project Manager at a [small website development company](https://leadme.agency/) for about six months. Mainly the sites were web-sites as a landing page. Had to interact with programmers, designers and other specialists, so I understand the process of creating such sites.
-
-* __Other skills__
+### __Other skills__
 + Completed software testing courses in 2015.
 + In 2017, about a month to learn how to work in the programming language "__C__" intensive. Couldn't finish because the training company itself started having problems.
 + Studied Assembler, Visual Basic, Delphi and others at сollege.
